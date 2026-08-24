@@ -1,16 +1,83 @@
-# React + Vite
+# Portfolyo Sitesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Kişisel portfolyo sitem. React, Vite, Tailwind CSS, Three.js ve GSAP ile geliştirildi.
 
-Currently, two official plugins are available:
+## Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Terminal temalı hero bölümü
+- GSAP ve Motion ile scroll animasyonları
+- Three.js ve OGL ile WebGL arka plan efektleri
+- Web3Forms ile çalışan iletişim formu
+- Proje, yetenek, sertifika ve deneyim bölümleri
+- Duyarlı (responsive) tasarım
 
-## React Compiler
+## Kullanılan Teknolojiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React 19
+- Vite
+- Tailwind CSS v4
+- shadcn/ui (Base UI tabanlı)
+- Motion (Framer Motion)
+- GSAP (ScrollTrigger)
+- Three.js / @react-three/fiber
+- OGL
+- Lucide React
+- React Icons
+- class-variance-authority, clsx, tailwind-merge
+- Web3Forms
 
-## Expanding the ESLint configuration
+## Kurulum
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
+```
+
+## İletişim
+
+- GitHub: [github.com/ibrbsmc](https://github.com/ibrbsmc)
+- LinkedIn: [linkedin.com/in/ibrahimbasmaci](https://www.linkedin.com/in/ibrahimbasmaci/)
+- E-posta: ibrbsmc@gmail.com
+
+---
+
+# Portfolio Website
+
+My personal portfolio website. Built with React, Vite, Tailwind CSS, Three.js, and GSAP.
+
+## Features
+
+- Terminal-themed hero section
+- Scroll animations with GSAP and Motion
+- WebGL background effects with Three.js and OGL
+- Contact form powered by Web3Forms
+- Projects, skills, certificates, and experience sections
+- Responsive design
+
+## Tech Stack
+
+- React 19
+- Vite
+- Tailwind CSS v4
+- shadcn/ui (built on Base UI)
+- Motion (Framer Motion)
+- GSAP (ScrollTrigger)
+- Three.js / @react-three/fiber
+- OGL
+- Lucide React
+- React Icons
+- class-variance-authority, clsx, tailwind-merge
+- Web3Forms
+
+## Setup
+
+```bash
+npm install
+npm run dev
+```
+
+## Contact
+
+- GitHub: [github.com/ibrbsmc](https://github.com/ibrbsmc)
+- LinkedIn: [linkedin.com/in/ibrahimbasmaci](https://www.linkedin.com/in/ibrahimbasmaci/)
+- Email: ibrbsmc@gmail.com
